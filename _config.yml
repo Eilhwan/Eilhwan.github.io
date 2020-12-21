@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Backend Engineer"
   location         : "Suwon, Republic of Korea"
-  email            : 
+  email            : "eilhwan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
